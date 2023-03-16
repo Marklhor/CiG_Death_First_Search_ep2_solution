@@ -9,7 +9,6 @@ https://www.codingame.com/ide/puzzle/death-first-search-episode-2
 
 ![gif](img/death_first_search_episode_2.gif)
 
-
 ![logigramme](./img/logigramme.jpg)
 
 *Marklhor*
