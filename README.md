@@ -4,4 +4,6 @@ My solution in C#
 
 * Use https://app.diagrams.net/ for visualisation the flow chart (death_first_search_episode_2.drawio)
 
-Marklhor
+![logigramme](./logigramme.jpg)
+
+*Marklhor*
